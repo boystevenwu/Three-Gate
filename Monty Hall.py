@@ -36,7 +36,7 @@ count = 0
 
 for i in range(num):
     random.shuffle(doors)  # create random doors
-    print(doors)
+    # print(doors)
     first_choice = randie(index_num-1)  # make choice
     # print(choice)
     nothing_one = int
